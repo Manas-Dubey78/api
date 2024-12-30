@@ -1,0 +1,52 @@
+ [
+      {
+        "name": "Wireless Headphones",
+        "price": 89.99,
+        "description": "High-quality wireless headphones with noise cancellation and 20 hours of battery life.",
+        "createdAt": "2023-10-01T10:00:00Z",
+        "company": "AudioTech"
+      },
+      {
+        "name": "Wireless Headphones1",
+        "price": 89.99,
+        "description": "High-quality wireless headphones with noise cancellation and 20 hours of battery life.",
+        "createdAt": "2023-10-01T10:00:00Z",
+        "company": "AudioTech"
+      },
+      {
+        "name": "Wireless Headphones2",
+        "price": 89.99,
+        "description": "High-quality wireless headphones with noise cancellation and 20 hours of battery life.",
+        "createdAt": "2023-10-01T10:00:00Z",
+        "company": "AudioTech"
+      },
+      {
+        "name": "Smartphone X Pro",
+        "price": 999.99,
+        "description": "Latest smartphone with a stunning display, powerful processor, and advanced camera features.",
+        "createdAt": "2023-09-15T14:30:00Z",
+        "company": "TechGiant"
+      },
+      {
+        "name": "4K Ultra HD TV",
+        "price": 599.99,
+        "description": "Experience stunning picture quality with our 4K Ultra HD TV, featuring smart capabilities.",
+        "createdAt": "2023-08-20T09:15:00Z",
+        "company": "Visionary Electronics"
+      },
+      {
+        "name": "Gaming Laptop",
+        "price": 1299.99,
+        "description": "High-performance gaming laptop with a powerful GPU and fast refresh rate display.",
+        "createdAt": "2023-07-10T11:45:00Z",
+        "company": "Gamer's Paradise"
+      },
+      {
+        "name": "Smartwatch Series 5",
+        "price": 249.99,
+        "description": "Stylish smartwatch with fitness tracking, heart rate monitoring, and customizable watch faces.",
+        "createdAt": "2023-06-25T08:00:00Z",
+        "company": "Wearable Tech Co."
+      }
+    ]
+  
